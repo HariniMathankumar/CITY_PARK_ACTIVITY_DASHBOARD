@@ -1,4 +1,4 @@
-# README -- CITY PARK ACTIVITY DASHBOARD<a href="https://github.com/HariniMathankumar/CITY_PARK_ACTIVITY_DASHBOARD/blob/main/Screenshot%202025-09-16%20111632.png">--- Click Me---</a>
+# CITY PARK ACTIVITY DASHBOARD<a href="https://github.com/HariniMathankumar/CITY_PARK_ACTIVITY_DASHBOARD/blob/main/Screenshot%202025-09-16%20111632.png">-- Click Me--</a>
 
 ## Overview
 
